@@ -37,6 +37,11 @@ body {
     background-color: palegoldenrod;
 }
 
+/* Every text variable changes to the imported lato font */
+p, h1, button, h2, li {
+    font-family: lato;
+}
+
 button {
     background-color: palevioletred;
     border: 2px solid black;
