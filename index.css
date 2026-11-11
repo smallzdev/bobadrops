@@ -1,0 +1,32 @@
+/* Classes */
+
+/* Divs */
+.boba-div {
+    background-color: palevioletred;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.other-drinks {
+    background-color: paleturquoise;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.other-projects {
+    background-color: palegreen;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.boba-image {
+    border-radius: 60px;
+    width: 300px;
+    height: auto
+}
+
+/* Types of tags */
+
+body {
+    background-color: palegoldenrod;
+}
